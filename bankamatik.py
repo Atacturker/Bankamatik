@@ -1,3 +1,4 @@
+pip install --upgrade pip
 import sys
 import streamlit as st
 st.title("Bankamatik")
