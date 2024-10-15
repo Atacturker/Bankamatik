@@ -1,5 +1,6 @@
 import sys
 import streamlit as st
+st.title("Bankamatik")
 mail_list=[
     {"isim":"Turker", "yas":"25", "yer":"ankara", "mail":"turker@hotmail.com", "sifre":"7253", "bakiye": 23500},
     {"isim":"Necip", "yas":"32", "yer":"istanbul", "mail":"necip@hotmail.com", "sifre":"4327", "bakiye": 188000},
